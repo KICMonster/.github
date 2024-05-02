@@ -5,10 +5,12 @@
 [태연] (https://github.com/KICMonster/Monster_BackEnd_TY)<br>
 [명준] (https://github.com/KICMonster/Monster)
 <br>
+[현민] (https://github.com/KICMonster/BackEnd_Hyunmin)
+<br>
+[은영] (https://github.com/KICMonster/Monster_BackEnd_SEY) <br>
 [동준]<br>
-[은영]<br>
+<br>
 [해랑]<br>
-[현민]<br>
 
 
 <!--
