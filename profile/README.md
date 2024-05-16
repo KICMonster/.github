@@ -8,7 +8,7 @@
 [현민] (https://github.com/KICMonster/BackEnd_Hyunmin)
 <br>
 [은영] (https://github.com/KICMonster/Monster_BackEnd_SEY) <br>
-[동준]<br> (https://github.com/KICMonster/frontend-monster)
+[동준](https://github.com/KICMonster/frontend-monster)
 <br>
 [해랑]<br>
 
