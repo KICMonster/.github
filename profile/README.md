@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[Main] (https://github.com/KICMonster/Monster_Main)<br><br>
+[Main] (https://github.com/KICMonster/Monster)<br><br>
 [태연] (https://github.com/KICMonster/Monster_BackEnd_TY)<br>
 [현민] (https://github.com/KICMonster/BackEnd_Hyunmin)
 <br>
